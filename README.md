@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazhrul Sadip</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img src="https://github.com/sadipnsu/sadipnsu/assets/86272587/1a77f1e8-9367-4444-9e18-6c1fad3a18bc">
+<img src="https://github.com/sadipnsu/sadipnsu/assets/86272587/1a77f1e8-9367-4444-9e18-6c1fad3a18bc" width="200px">
 - 🌱 I’m currently learning **React, Nodes, NextJs, TypeScript, Angular**
 
 - 💬 Ask me about **React, Websites, Angular**
